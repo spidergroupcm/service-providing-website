@@ -1,4 +1,4 @@
-# 🚀 Service Sharing Web Application - Category 2
+# 🚀 Service Sharing Web Application 
 
 Welcome to my dynamic website project, built using the latest technologies to provide seamless CRUD operations and a responsive user experience.
 
